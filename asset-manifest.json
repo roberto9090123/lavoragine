@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/lavoragine/static/css/main.e2c3ccd4.css",
+    "main.js": "/lavoragine/static/js/main.c434f5c9.js",
+    "index.html": "/lavoragine/index.html",
+    "main.e2c3ccd4.css.map": "/lavoragine/static/css/main.e2c3ccd4.css.map",
+    "main.c434f5c9.js.map": "/lavoragine/static/js/main.c434f5c9.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e2c3ccd4.css",
+    "static/js/main.c434f5c9.js"
+  ]
+}
